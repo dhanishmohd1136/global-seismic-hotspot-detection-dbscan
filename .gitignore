@@ -1,0 +1,18 @@
+# Datasets
+data/raw/*.csv
+data/processed/*.csv
+
+# Generated outputs
+outputs/figures/*.png
+outputs/results/*.csv
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.env
